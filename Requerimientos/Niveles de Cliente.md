@@ -1,4 +1,4 @@
-# NIVELES DEL CLIENTE
+# Niveles de Cliente
 
 * Cada cliente debe de clasificarse en por lo menos los siguientes niveles, se indican de manera ascendente: **Bronce, Plata, Oro y Diamante.**
 
@@ -17,7 +17,4 @@
 | ID       | Int(auto) |
 | Nombre   | String    |
 | Cantidad | Int       |
-|          |           |
-|          |           |
-|          |           |
 

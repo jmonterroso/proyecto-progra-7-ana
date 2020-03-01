@@ -1,4 +1,4 @@
-## PEDIDO O COMPRA
+# Pedido o Compra
 
 * Cualquier usuario sin autentificar puede registrar un pedido o compra, pero no lo puede finalizar hasta autentificarse como usuario cliente del sistema.
 * Se debe poder agregar varios productos asociados a un mismo pedido.
@@ -16,10 +16,6 @@
 * Cada usuario cliente debe poder ver una lista de los pedidos que ha realizado, con la información más relevante de cada uno.
 
 * Debe presentar los pedidos correspondientes al usuario que se encuentra autentificado.
-
-
-
-
 
 ## Tabla Pedido
 

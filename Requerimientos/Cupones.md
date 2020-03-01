@@ -1,4 +1,4 @@
-#**Registro de cupones:**
+# Registro de cupones:
 
 * Los cupones los registra el administrador, cada cupón debe estar:
   * asociado a un producto y a un nivel de cliente.
