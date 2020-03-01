@@ -35,3 +35,14 @@
 | TipoCliente     | String            |
 | FechaCreacion   | Datetime(auto)    |
 
+
+
+### Layout Examples
+
+#### Registro
+
+https://bootsnipp.com/snippets/0BVEA
+
+#### Login
+
+https://getbootstrap.com/docs/4.4/examples/sign-in/
